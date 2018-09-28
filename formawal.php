@@ -41,28 +41,6 @@
 						</tr>
 					</table>
 				</form>
-
-
-				<h2>Pilih</h2>
-				<form action="<?php echo $_SERVER['PHP_SELF'];?>"  method="POST">
-				<table>
-				<tr>
-					<td><input type="checkbox" name="makanan[]" value="baso">Baso</td>
-				</tr>
-
-				<tr>
-					<td><input type="checkbox" name="buah[]" value="jeruk">Jeruk</td>
-				</tr>
-				
-				<tr>
-					<td><input type="checkbox" name="laptop[]" value="acer">Acer</td>
-				</tr>
-
-				<tr>
-					<td><input type="submit" name="send" value="submit"></td>
-				</tr>
-				</table>
-				</form>
 			<?php }
 
 ?>
