@@ -59,7 +59,7 @@
 				</tr>
 
 				<tr>
-					<td><input type="submit" name="submit" value="submit"></td>
+					<td><input type="submit" name="send" value="submit"></td>
 				</tr>
 				</table>
 				</form>
